@@ -3,17 +3,17 @@
 <head>
 <title> Дата и время </title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-</head>
+      </head>
 
-<body>
+      <body>
 
-<h1> Хотите узнать дату и время? </br>
-Пожалуйста:
-</h1>
+      <h1> Хотите узнать дату и время? </br>
+      Пожалуйста:
+      </h1>
 
- <?php
+      <?php
 
-echo date("r");
+      echo date("r");
 
 ?>
 
